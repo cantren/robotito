@@ -21,7 +21,7 @@ You will be "talking" to your server like you always did, but now you will get s
 ### Requirements
 
 * [bundler](http://rubygems.org/gems/bundler)
-* Ruby <= 1.8.7 _(Unfortunately, it depends on a gems that does not work with any greater version. But works fine with that ;) )_
+* Ruby <= 1.8.7 _(Unfortunately, it depends on a gems that does not work with any ruby version after 1.8. But works fine with that ;) )_
 
 ### Installation
 
